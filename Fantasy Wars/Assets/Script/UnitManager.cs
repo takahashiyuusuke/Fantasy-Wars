@@ -192,6 +192,5 @@ public class UnitManager : MonoBehaviour {
 
     // 移動可能なマスを検索
     public void ontouch(){
-        List<>
     }
 }
