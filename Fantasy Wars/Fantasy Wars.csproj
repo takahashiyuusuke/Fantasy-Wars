@@ -310,8 +310,12 @@
     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />
-    <Compile Include="Assets\MapManager.cs" />
-    <Compile Include="Assets\UnitManager.cs" />
+    <Compile Include="Assets\Script\Map.cs" />
+    <Compile Include="Assets\Script\MapController.cs" />
+    <Compile Include="Assets\Script\MapManager.cs" />
+    <Compile Include="Assets\Script\test1.cs" />
+    <Compile Include="Assets\Script\test2.cs" />
+    <Compile Include="Assets\Script\UnitManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Demigiant\DOTween\DOTween.XML" />
