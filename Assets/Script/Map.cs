@@ -21,5 +21,8 @@ public class Map : MonoBehaviour {
         pos = transform.position;
         Debug.Log(pos);
     }
+    public void aaaaaaa() {
+
+    }
 
 }
